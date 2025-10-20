@@ -1,0 +1,10 @@
+img { 
+    width: 400px;
+}
+
+body {
+    background-color:teal ;
+    color: purple;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
